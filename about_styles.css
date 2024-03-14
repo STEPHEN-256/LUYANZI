@@ -1,0 +1,58 @@
+header{
+    background-color: red;
+    color: #fff;
+    padding: 50px 20px;
+    text-align: center;
+}
+ header h1{
+    font-size:2.5em;
+    margin-bottom: 10px;
+ }
+ header p{
+    font-size: 1.2em;
+}
+nav{
+    background-color: #ffee58;
+    padding: 20px;
+    text-align: center;
+}
+nav a {
+    margin: 0 15px;
+    text-decoration: none;
+    color: #ff5733;
+    font-size: 1.1em;
+    transition: color 0.3s ease;
+}
+nav a :hover{
+    color: #c62828;   
+
+}
+
+.wholesite{
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 0 20px;
+}
+.maincontent{
+    text-align: justify;
+}
+
+.maincontent h2 {
+    color: #ffeb3b;
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+.maincontent p { 
+    font-size: 1.1em;
+    line-height: 1.6;
+}
+
+footer{
+    background-color: #4caf50;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0 ;
+}
+footer p {
+    font-size: 1em;
+}
